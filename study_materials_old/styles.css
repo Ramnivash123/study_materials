@@ -1,0 +1,115 @@
+body {
+      background-image: url("https://blogassets.leverageedu.com/blog/wp-content/uploads/2020/04/24205608/TOEFL-Study-Material.jpg");
+      background-repeat: no-repeat;
+      background-size: cover;
+      margin: 0;
+      font-family: 'Arial', sans-serif;
+    }
+
+    .container {
+      margin-top: 50px;
+    }
+
+    .login-container {
+      background-color: rgba(255, 255, 255, 0.8);
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+
+    label {
+      color: #333;
+      font-weight: bold;
+    }
+
+    input {
+      color: #333;
+    }
+
+    .btn-primary {
+      background-color: #007bff;
+      border-color: #007bff;
+    }
+
+    .btn-primary:hover {
+      background-color: #0056b3;
+      border-color: #0056b3;
+    }
+p {
+      color: #555;
+    }
+.centered-content {
+    /* Add styles for the centered content */
+    text-align: center; /* Center text horizontally */
+    background-color: rgba(255, 255, 255, 0.8); /* Add a semi-transparent background for readability */
+    padding: 20px;
+    border-radius: 10px;
+}
+table {
+            background-color: rgba(255, 255, 255, 0.8);
+            margin-top: 20px;
+        }
+
+th, td {
+            text-align: center;
+        }
+
+a {
+            color: #337ab7;
+        }
+* {
+  text-decoration: none;
+}
+
+.navbar {
+  background: blue;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+.navdiv {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logo img {
+  width: 50px; /* Adjust the width to your desired size */
+  height: auto; /* Maintain aspect ratio */
+}
+
+ul {
+  list-style: none;
+  display: flex;
+  margin: 0;
+  padding: 0;
+  justify-content: flex-end; /* Align the list items to the right */
+}
+
+li {
+  list-style: none;
+  display: inline-block;
+  
+}
+
+li a {
+  color: white;
+  font-size: 18px;
+  font-weight: bold;
+  margin-right: 25px;
+}
+
+button {
+  background-color: black;
+  margin-left: 10px;
+  border-radius: 10px;
+  padding: 10px;
+  width: 90px;
+}
+
+button a {
+  color: white;
+  font-weight: bold;
+  font-size: 15px;
+}
+
